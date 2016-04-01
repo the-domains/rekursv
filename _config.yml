@@ -1,0 +1,28 @@
+name: rekursv
+favicon: null
+layout_spectrum: 0.280094709713012
+typography_spectrum: 0.2412836318835616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.21072604740038514
+  lightness: 0.41789232613518834
+  saturation: 0.38383958768099546
+  rhythmicContrast: 0.6571195558644831
+purpose: []
