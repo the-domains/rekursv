@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.3838395876809955
-  brandStrength: 0.1337272
+  brandStrength: 0.8823845
   lightness: 0.4178923261351883
   brandColors:
-    - '#CDD8B6'
-    - '#0C0714'
-    - '#5C6565'
-    - '#99A392'
-    - '#5E151F'
+    - '#FFFFFF'
+    - '#D0D0CE'
+    - '#1E1E17'
+    - '#A4A4A2'
+    - '#787876'
   rhythmicContrast: 0.6571195558644831
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: rekursv
+favicon: null
 opengraph:
   image: null
   type: null
