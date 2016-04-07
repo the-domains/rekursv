@@ -1,29 +1,41 @@
-name: rekursv
-favicon: null
-layout_spectrum: 0.280094709713012
-typography_spectrum: 0.2412836318835616
 title: '1.6180339887'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3838395876809955
+  brandStrength: 0.2107260474003851
+  rhythmicContrast: 0.6571195558644831
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.21072604740038514
-  lightness: 0.41789232613518834
-  saturation: 0.38383958768099546
-  rhythmicContrast: 0.6571195558644831
-purpose: []
+  lightness: 0.4178923261351883
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: rekursv
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5322234
+layout_spectrum: 0.280094709713012
