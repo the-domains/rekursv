@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0.3838395876809955
-  brandStrength: 0.2107260474003851
+  brandStrength: 0.1337272
   lightness: 0.4178923261351883
   brandColors:
     - '#CDD8B6'
