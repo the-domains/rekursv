@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: rekursv
 favicon: null
+name: rekursv
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.5322234
-layout_spectrum: 0.280094709713012
+layout_spectrum: 0.9221267
