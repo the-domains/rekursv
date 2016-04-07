@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[rekursv]]></title>
         <description><![CDATA[rekursv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rekursv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 09:18:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Apr 2016 09:25:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rekursv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f52f5fcb-9db1-45a8-8478-d1d0d965b34c.jpg">]]></description>
+            <link>https://thegrid.ai/rekursv/487204cf-85fa-4244-a9d0-d4ddc590fa7b/index.html</link>
+            <guid isPermaLink="false">487204cf-85fa-4244-a9d0-d4ddc590fa7b</guid>
+            <pubDate>Thu, 07 Apr 2016 09:24:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14014bec-8bee-413f-b948-4fe56ff575d5.jpg">]]></description>
-            <link>undefinedhello-sentients/index.html</link>
+            <link>https://thegrid.ai/rekursv/hello-sentients/index.html</link>
             <guid isPermaLink="false">1020352d-fb34-4c40-b750-db55a7210863</guid>
             <pubDate>Thu, 07 Apr 2016 09:18:46 GMT</pubDate>
         </item>
