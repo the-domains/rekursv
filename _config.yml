@@ -1,5 +1,8 @@
+name: rekursv
+favicon: null
+layout_spectrum: 0.25207
+typography_spectrum: 0.24023
 title: '1.6180339887'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3838395876809955
-  brandStrength: 0.8823845
-  lightness: 0.4178923261351883
   brandColors:
     - '#FFFFFF'
     - '#D0D0CE'
     - '#1E1E17'
     - '#A4A4A2'
     - '#787876'
+  brandStrength: 0.1875
+  lightness: 0.4178923261351883
+  saturation: 0.3838395876809955
   rhythmicContrast: 0.6571195558644831
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: rekursv
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2196563
-layout_spectrum: 0.1680988
+purpose: []
