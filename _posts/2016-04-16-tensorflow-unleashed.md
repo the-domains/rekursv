@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'http://googleresearch.blogspot.co.uk/2016/04/announcing-tensorflow-08-now-with.html'
-datePublished: '2016-04-16T08:23:43.669Z'
-dateModified: '2016-04-16T08:19:30.224Z'
+datePublished: '2016-04-16T08:49:16.573Z'
+dateModified: '2016-04-16T08:47:04.370Z'
 title: TensorFlow unleashed
 author: []
+sourcePath: _posts/2016-04-16-tensorflow-unleashed.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-tensorflow-unleashed.md
-published: true
 url: tensorflow-unleashed/index.html
 _type: Article
 
